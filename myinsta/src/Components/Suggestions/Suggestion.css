@@ -1,0 +1,27 @@
+.suggestios_container{
+    width: 325px;
+    height: 290px;
+    margin-top: 25px;
+}
+.suggestios_header{
+    font-weight: bold;
+    color :#8e8e8e;
+}
+.suggestios_body{
+    width: 25px;
+    height: 290px;
+    margin-top: 10px;
+
+}
+.suggestios_friends{display: flex;
+
+}
+.suggestios_image{
+ max-width: 35px;
+ min-height: 35px;
+}
+.suggestios_username{
+    font-weight: bold;
+    margin:10px;
+
+}
